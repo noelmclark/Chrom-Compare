@@ -109,3 +109,4 @@ multiple chromosomes) and writes out:
     3) Standard Error from weighted block jackknife
     4) Z-Score (raw from D and Standard Error, no correction for mulitple test)
 
+
